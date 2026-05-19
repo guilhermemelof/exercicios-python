@@ -1,2 +1,2 @@
 def resposta(km, dias):
-    pass
+    return float(dias * 60 + km * 0.15)
